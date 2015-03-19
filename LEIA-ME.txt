@@ -1,0 +1,4 @@
+Nome: Mariana Oliveira do Rosário
+E-mail: mariana.rosario@hotmail.com
+Curso: Ciência da Computação
+Disciplina: Estrutura de Dados e Algoritmos
