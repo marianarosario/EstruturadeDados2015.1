@@ -1,0 +1,1 @@
+Lê um número real e o imprime na tela.
