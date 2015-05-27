@@ -1,0 +1,6 @@
+07. Qual instrução deve ser acrescentada?
+
+main(){
+	int j, *pj = &j;
+	*pj=3;
+}

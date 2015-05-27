@@ -1,0 +1,4 @@
+14. Quais as atribuições permitidas?
+
+C (pf é um ponteiro para float e aponta para f), E (*pf é float), F (f pode receber o valor de i, pois um float também pode possuir o valor de um inteiro), I (ppf é um ponteiro duplo e pf é um ponteiro, ambos para float), J (**ppi é um inteiro).
+

@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#define MAX 100
+
+struct aluno {
+	char nome[81];
+	int mat;
+	char end[121];
+	char tel[21];	
+	
+};
+
+typedef struct aluno *PAluno;
+
+PAluno tab[MAX];
+
+void inicio(int n,PAluno *tab){
+	int i;
+	for (i=0; i<n; i++)
+		tab[i] = NULL;
+}
+
+
+void main(){
+	PAluno tab[10];
+	inicio(10,tab);	
+
+}

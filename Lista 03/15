@@ -1,0 +1,20 @@
+15. Qual o valor dos itens?
+
+ a) 10 – o valor de x;
+      b) 5.9 – *py é o valor de y;
+      c) FFA0 – px indica o valor do endereço de x;
+      d) FFB4 – o endereço de y;
+      e) 10 - *px é o valor de x;
+      f) 5.9 – o valor de y;
+      g) FFF0 – *ppx indica o endereço de px;
+      h) FFB4 – py indica o valor do endereço de y; 
+      i) FFA0 – o endereço de x;
+      j) FFB5 – o endereço de y somado a 1;
+      k) 9 – o valor de x subtraído de 1;
+      l) 5.9 – **ppy indica o valor de y;
+      m) FFA6 – o endereço de ppy;
+      n) FFA0 – o endereço de px (* e & se “cancelam”);
+      o) 11 – o valor de x somado a 1;
+      p) FFA1 – o endereço de x somado a 1;
+      q) FFD4 – o endereço de ppx.
+

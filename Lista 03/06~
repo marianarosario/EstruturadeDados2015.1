@@ -1,0 +1,4 @@
+06. A instrução é correta?
+
+A instrução está incorreta, pois a variável px já é um endereço. Assim, ao colocarmos um * não estamos passando o parâmetro adequado para a função scanf.
+

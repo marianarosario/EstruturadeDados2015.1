@@ -1,0 +1,4 @@
+01. O que é e para que serve um ponteiro.
+
+Um ponteiro é uma “variável especial” que recebe o valor do endereço de determinado tipo de variável. As principais aplicações de ponteiros são em funções (nas quais os ponteiros determinam a modificação das variáveis da função principal) e em vetores, sendo o vetor um ponteiro para um conjunto de variáveis de um tipo específico, e seus índices determinando qual delas é utilizada.
+

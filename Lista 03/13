@@ -1,0 +1,4 @@
+13. Quais atribuições permitidas?
+
+A (x é um inteiro), D (pf é um ponteiro duplo), F (pf é um ponteiro duplo), G (ptx aponta para o endereço de x), H (ptx é um ponteiro para inteiro), J (pf é um ponteiro duplo e ptx é um ponteiro, ambos para inteiros).
+

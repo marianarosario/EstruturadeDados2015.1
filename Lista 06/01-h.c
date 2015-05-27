@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+struct ponto {
+		float x;
+		float y;
+	};
+
+void ler(struct ponto *p){
+	scanf("%f", &p->x);
+	scanf("%f", &p->y);
+}
+
+float distancia(struct ponto *p,struct ponto *q){
+	float d1,d2,r;
+	d1=(q->x - p->x)*(q->x - p->x);
+	d2=(q->y - p->y)*(q->y - p->y);
+	r=sqrt(d1+d2); 
+	printf("%f",r);
+}
+
+void main(){
+	struct ponto v;
+	struct ponto k;
+
+	ler(&v);
+	ler(&k);
+	distancia(&v,&k);	
+
+}

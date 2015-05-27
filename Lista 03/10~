@@ -1,0 +1,3 @@
+10. Qual a saída?
+
+endereço de i' 7 5 15 9 – p indica o valor do endereço de i; *p indica o valor de i (5+2=7, **&p indica o valor de i - * “cancela” & - 3*5=15, 5+4=9).

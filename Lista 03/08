@@ -1,0 +1,4 @@
+08. Expressão que divide x por 5, sem usar x.
+
+*px/=5 – como *px representa o valor de x, basta dividi-lo por 5.
+
